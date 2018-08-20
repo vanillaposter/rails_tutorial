@@ -24,4 +24,4 @@
 
 *.swp
 
-spring/
+/spring/*.pid
